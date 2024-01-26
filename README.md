@@ -3,7 +3,7 @@
 ## Introduction
 Welcome to the repository for "Zombie Invasion," a web-based game designed using HTML, JavaScript, and the p5.js library. This game is a culmination of creative design, programming expertise, and collaborative effort. The repository contains all the necessary files, including the game's source code, assets, and a comprehensive final documentation report.
 
-![Main Game Screenshot](main.png)
+![Main Game Screenshot](images/main.png)
 
 ## Game Overview
 Zombie Invasion is an interactive game set in a natural environment with a house in the middle. Players must survive waves of zombies, with the game's difficulty increasing with each wave. The game features a boss level, adding a climactic challenge to the experience.

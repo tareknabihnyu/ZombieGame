@@ -3,6 +3,8 @@
 ## Introduction
 Welcome to the repository for "Zombie Invasion," a web-based game designed using HTML, JavaScript, and the p5.js library. This game is a culmination of creative design, programming expertise, and collaborative effort. The repository contains all the necessary files, including the game's source code, assets, and a comprehensive final documentation report.
 
+#you can try the game using this link: https://i6.cims.nyu.edu/~tmn8829/interactive/final/index.html
+
 ![Main Game Screenshot](Images/main.png)
 
 ## Game Overview
